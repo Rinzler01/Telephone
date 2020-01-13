@@ -25,8 +25,8 @@ class TelephoneNoTest
 	public void invalidNumber()
 	{
 		//Arrange
-		String input = "+11111111111";
-		String expectedResult = "+16085551212";
+		String input = "+5436hgth";
+		String expectedResult = "Invalid";
 		TelephoneNumber cut = new TelephoneNumber(input);
 		//Act
 		String actualResult = cut.isValid();
@@ -34,5 +34,21 @@ class TelephoneNoTest
 		assertNotEquals(expectedResult, actualResult);
 
 	}
+
+	@Test
+	public void invalidNumberLength()
+	{
+		//Arrange
+		String input = "+1608555121";
+		String expectedResult = "+1608555121";
+		TelephoneNumber cut = new TelephoneNumber(input);
+		//Act
+		String actualResult = cut.isValid();
+		//Assert
+		assertEquals(expectedResult, actualResult);
+
+	}
+
+
 
 }

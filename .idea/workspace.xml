@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f74e375-ffdf-4641-a887-4799da34be5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Telephone/TelephoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Telephone/TelephoneNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Telephone/TelephoneNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Telephone/TelephoneNumberTest.java" afterDir="false" />
@@ -51,7 +50,7 @@
       <recent name="Telephone" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in PhoneNumber (2)">
+  <component name="RunManager" selected="JUnit.TelephoneNoTest.ValidNumber">
     <configuration name="All in PhoneNumber (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PhoneNumber" />
       <option name="PACKAGE_NAME" value="" />
@@ -68,7 +67,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in PhoneNumber (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in PhoneNumber (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PhoneNumber" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -102,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TelephoneNoTest.ValidNumber" />
+        <item itemvalue="JUnit.All in PhoneNumber (3)" />
         <item itemvalue="JUnit.All in PhoneNumber (2)" />
         <item itemvalue="JUnit.All in PhoneNumber (1)" />
-        <item itemvalue="JUnit.TelephoneNoTest.ValidNumber" />
         <item itemvalue="JUnit.All in PhoneNumber" />
-        <item itemvalue="JUnit.All in PhoneNumber (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -144,22 +143,38 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="436" y="352" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578912566842" />
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1578926897722">
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom" timestamp="1578929510953">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578926897722" />
-    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1578926897722">
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578929510953" />
+    <state width="1237" height="179" key="GridCell.Tab.0.center" timestamp="1578929510953">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578926897722" />
-    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1578926897722">
+    <state width="1237" height="179" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578929510953" />
+    <state width="1237" height="179" key="GridCell.Tab.0.left" timestamp="1578929510953">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578926897722" />
-    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1578926897722">
+    <state width="1237" height="179" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578929510953" />
+    <state width="1237" height="179" key="GridCell.Tab.0.right" timestamp="1578929510953">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578926897722" />
+    <state width="1237" height="179" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578929510953" />
+    <state width="1237" height="179" key="GridCell.Tab.1.bottom" timestamp="1578929510953">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.1.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578929510953" />
+    <state width="1237" height="179" key="GridCell.Tab.1.center" timestamp="1578929510953">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.1.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578929510953" />
+    <state width="1237" height="179" key="GridCell.Tab.1.left" timestamp="1578929510953">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.1.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578929510953" />
+    <state width="1237" height="179" key="GridCell.Tab.1.right" timestamp="1578929510953">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.1.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578929510953" />
     <state x="340" y="169" key="Maven.ArtifactSearchDialog" timestamp="1578911959796">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -176,5 +191,16 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578915535114" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Telephone/TelephoneNumberTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
