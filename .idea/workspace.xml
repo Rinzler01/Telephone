@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f74e375-ffdf-4641-a887-4799da34be5b" name="Default Changelist" comment="" />
+    <list default="true" id="5f74e375-ffdf-4641-a887-4799da34be5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Telephone/TelephoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Telephone/TelephoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Telephone/TelephoneNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Telephone/TelephoneNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Telephone/TelephoneNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Telephone/TelephoneNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Telephone/TelephoneNoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Telephone/TelephoneNoTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WKrdOb0K9S5Ehhn7uzInB7kEfY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,10 +40,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -132,30 +144,34 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="436" y="352" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578912566842" />
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1578921761718">
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1578926897722">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578921761718" />
-    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1578921761718">
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578926897722" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1578926897722">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578921761718" />
-    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1578921761717">
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578926897722" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1578926897722">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578921761717" />
-    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1578921761718">
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578926897722" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1578926897722">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578921761718" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578926897722" />
     <state x="340" y="169" key="Maven.ArtifactSearchDialog" timestamp="1578911959796">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="340" y="169" key="Maven.ArtifactSearchDialog/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578911959796" />
-    <state x="141" y="135" key="SettingsEditor" timestamp="1578915552258">
+    <state x="141" y="135" key="SettingsEditor" timestamp="1578925903329">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="141" y="135" key="SettingsEditor/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578915552258" />
+    <state x="141" y="135" key="SettingsEditor/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578925903329" />
+    <state x="296" y="226" width="672" height="677" key="run.anything.popup" timestamp="1578926584315">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="226" width="672" height="677" key="run.anything.popup/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578926584315" />
     <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1578915535114">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

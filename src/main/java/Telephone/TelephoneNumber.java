@@ -32,7 +32,9 @@ public class TelephoneNumber
 
         Pattern telephoneRegex = Pattern.compile("1[0-9]{10}");
 
-        return "+" + tNum;
+        String s = "+";
+        String cellNo1 = s.concat(tNum);
+        return  cellNo1;
 
     }
 
